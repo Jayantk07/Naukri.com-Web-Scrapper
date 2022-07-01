@@ -21,8 +21,13 @@ An example of Data Analyst Jobs from Naukri.com is scrapped and upload above.
 The following information is scrapped from Naukri.com :
 
   ```1. Job Title```
+  
   ```2. Job Description```
+  
   ```3. Job Experience```
+  
   ```4. Salary```
+  
   ```5. Job Location```
+  
   ```6. Skills Required```
